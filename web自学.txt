@@ -1,0 +1,12 @@
+1、border-radius 属性是一个简写属性，用于设置四个 border-*-radius 属性。
+提示：该属性允许您为元素添加圆角边框！
+2、css中 两个标签可以同时写，被赋予同样的效果，这样可以剩下时间。
+3、filter:alpha(opacity=80)：实现不透明度为80%
+这个后面还可以加一个 filter:alpha(opacity=80);opacity:0.8; 前一个opacity取值范围是0-100,后一个opacity取值范围是0-1
+4、在设置了 width 或 height 的div中，写上overflow:hidden;的话，超出宽度或高度的部分，就隐藏了。
+5、转换不同元素中的文本：
+h1 {text-transform:uppercase}
+h2 {text-transform:capitalize}
+p {text-transform:lowercase}
+text-transform 属性控制文本的大小写。
+6、vertical-align：设置元素的垂直对齐方式。

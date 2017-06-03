@@ -1,0 +1,18 @@
+*{padding-bottom:0;margin:0;}
+body{font:12px/24px "宋体";color:#000;}
+ul{list-style: none;}
+a{text-decoration: none;color:#333;}
+.clear{background:red;clear:both;}
+.logo{width:1000px;margin:0px auto;}
+.menu{width:100%;height:40px;background: blue;}
+.menu ul{width:1000px;margin:0px auto;}
+.menu ul li{float:left;width:120px;line-height: 40px}
+.menu a{font-size:16px;color:#fff;}
+.banner,banner img{width:100%;height:auto;}
+.main{background:green;width:1000px;margin:0px auto;}
+.main1{width:248px;height:298px;float:right;border:1px solid #ccc;}
+.main2{width:748px;height:298px;float:left;border:1px solid #ccc;}
+.list{width:1000px;margin:0px auto;}
+.list1{width:230px;height:300px;float:left;margin:10px;}
+.footer{height:100px;background: #666;color:#aaa;text-align: center;}
+.form{float:top right;}
